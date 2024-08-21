@@ -17977,3 +17977,4 @@ geo-prod.do.dsp.mp.microsoft.com
 displaycatalog.mp.microsoft.com
 pti.store.microsoft.com
 store.dsx.mp.microsoft.com
+philnews.ph
